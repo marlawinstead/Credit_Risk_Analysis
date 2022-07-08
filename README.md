@@ -5,4 +5,16 @@ In this project, we will utilize machine learning to predict credit risk. We wil
 
 ## Results
 
+### Naive Random Sampling
+
+### SMOTE Oversampling
+
+### Undersampling
+
+### Combination Under-Over Sampling
+
+### Balanced Random Forest Classifier
+
+### Easy Ensemble Classifier
+
 ## Summary
