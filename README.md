@@ -18,7 +18,9 @@ In this project, we will utilize machine learning to predict credit risk. We wil
 <img width="726" alt="Combination" src="https://user-images.githubusercontent.com/100978922/177893240-480cdeef-9dc2-4937-a7ab-16def77e763f.png">
 
 ### Balanced Random Forest Classifier
+<img width="717" alt="BalancedRandomForest" src="https://user-images.githubusercontent.com/100978922/178163418-20286354-deeb-4836-816e-3bc3a8376515.png">
 
 ### Easy Ensemble Classifier
+<img width="713" alt="EasyEnsemble" src="https://user-images.githubusercontent.com/100978922/178163422-3a2ab161-0110-44c4-9244-2d5e9de031ae.png">
 
 ## Summary
